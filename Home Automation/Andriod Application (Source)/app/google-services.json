@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "79401430854",
+    "firebase_url": "https://yuss-ecfce.firebaseio.com",
+    "project_id": "yuss-ecfce",
+    "storage_bucket": "yuss-ecfce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79401430854:android:cd5d3af1842fae78",
+        "android_client_info": {
+          "package_name": "com.example.mrrobot.socket3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "79401430854-126bvl1d4hopalplru4k4panmij3r3it.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZqgomGahL0j21Bc8mLr8pQReKdr7GmgI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
